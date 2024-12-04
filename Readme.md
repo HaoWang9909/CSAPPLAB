@@ -13,6 +13,7 @@ This repository contains my lab records for the **"Computer Systems: A Programme
 3. [AttackLab](#attacklab)
 4. [ArchLab](#archlab)
 5. [CacheLab](#cachelab)
+6. [Shelllab](#shelllab)
 
 ---
 
@@ -103,6 +104,24 @@ This section provides an overview of **GDB**, the GNU Project debugger, and its 
 - Simulating cache behavior and analyzing cache performance.
 - Implementing the Least Recently Used (LRU) replacement policy.
 - Optimizing matrix transpose to reduce cache misses.
+
+---
+
+## Shelllab
+
+### Description
+
+**ShellLab** involves implementing a simple Unix shell program that supports job control and signal handling. The lab focuses on understanding process control and Unix system calls.
+
+### Files
+
+- [ShellLab.md](Shelllab/Shelllab.md): Documentation and steps for completing the ShellLab.
+
+### Key Points
+
+- Implementing a simple Unix shell program.
+- Supporting job control and signal handling.
+- Understanding process control and system calls.
 
 ---
 
